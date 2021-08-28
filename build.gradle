@@ -11,7 +11,7 @@ apply from: "dependencies.gradle"
 
 allprojects {
     group "com.luggsoft.pml"
-    version "1.0-SNAPSHOT"
+    version "${System.getenv("RELEASE_VERSION")}"
 }
 
 subprojects {

@@ -25,10 +25,15 @@ jobs:
           server-id: github # Value of the distributionManagement/repository/id field of the pom.xml
           settings-path: ${{ github.workspace }} # location for the settings.xml file
 
+      - name: Set version number
+        run: echo "RELEASE_VERSION=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
+
+      - name: Verify version number
+        run: echo ${{ env.RELEASE_VERSION }}
+
       - name: Build with Gradle
         run: gradle build
 
-        # PUBLISH pml-core
       - name: Publish pml-core to GitHub Packages
         run: |
           cd ./pml-core
@@ -37,7 +42,6 @@ jobs:
           USERNAME: ${{ github.actor }}
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # PUBLISH pml-spring
       - name: Publish pml-spring to GitHub Packages
         run: |
           cd ./pml-spring
