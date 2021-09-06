@@ -106,7 +106,7 @@ subprojects {
         repositories {
             maven {
                 name = "GitHubPackages"
-                url = uri("https://maven.pkg.github.com/dan-lugg/pml")
+                url = uri("https://maven.pkg.github.com/dan-lugg/kt-pml")
                 credentials {
                     username = project.findProperty("gpr.user") ?: System.getenv("GITHUB_USERNAME")
                     password = project.findProperty("gpr.key") ?: System.getenv("GITHUB_TOKEN")
