@@ -5,11 +5,5 @@ import kotlin.random.Random
 
 fun main()
 {
-    val random = Random(0)
-    val objectMapper = jacksonObjectMapper()
-
-    repeat(20) {
-        val testNode = buildTestNode(random)
-        objectMapper.writeValueAsString(testNode).also(::println)
-    }
+    loadTestNode("/TestNode1.json").also(::println)
 }

@@ -21,7 +21,7 @@ pluginManagement {
     }
 }
 
-rootProject.name = "pml"
+rootProject.name = "kt-pml"
 
 include(
         "pml-core",

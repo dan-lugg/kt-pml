@@ -120,6 +120,8 @@ class SelectorGrammar : Grammar<Selector>()
 
     val scopedOperatorToken by literalToken(text = Operator.SCOPED.symbol)
 
+    val compareSpecialOperatorToken by literalToken(text = Operator.COMPARE_SPECIAL_LIKE.symbol)
+
     val compareRelativeLteOperatorToken by literalToken(text = Operator.COMPARE_RELATIVE_LTE.symbol)
 
     val compareRelativeGteOperatorToken by literalToken(text = Operator.COMPARE_RELATIVE_GTE.symbol)
@@ -225,9 +227,13 @@ class SelectorGrammar : Grammar<Selector>()
         )
     }
 
+    val compareSpecialOperatorParser: Parser<Operator> by compareSpecialOperatorToken map Operator.Companion::fromTokenMatch
+
+    val compareSpecialExpressionParser: Parser<Expression> by leftAssociative(scopedExpressionParser, compareSpecialOperatorParser, ::leftAssociativeToInvokeMemberExpression)
+
     val compareRelativeOperatorParser: Parser<Operator> by compareRelativeOperatorToken map Operator.Companion::fromTokenMatch
 
-    val compareRelativeExpressionParser: Parser<Expression> by leftAssociative(scopedExpressionParser, compareRelativeOperatorParser, ::leftAssociativeToInvokeMemberExpression)
+    val compareRelativeExpressionParser: Parser<Expression> by leftAssociative(compareSpecialExpressionParser, compareRelativeOperatorParser, ::leftAssociativeToInvokeMemberExpression)
 
     val compareAbsoluteOperatorParser: Parser<Operator> by compareAbsoluteOperatorToken map Operator.Companion::fromTokenMatch
 

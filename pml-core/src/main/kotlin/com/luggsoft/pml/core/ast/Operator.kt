@@ -31,6 +31,12 @@ enum class Operator(
 
     // </editor-fold>
 
+    // <editor-fold desc="COMPARE_SPECIAL">
+
+    COMPARE_SPECIAL_LIKE("?=")
+
+    // </editor-fold>
+
     ;
 
     companion object

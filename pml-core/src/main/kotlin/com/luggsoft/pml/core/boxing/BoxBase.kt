@@ -1,5 +1,7 @@
 package com.luggsoft.pml.core.boxing
 
+import kotlin.reflect.KCallable
+
 /**
  * TODO
  *
@@ -79,6 +81,7 @@ sealed class BoxBase<TValue : Any> : Box<TValue>
     final override fun invokeMember(name: String, argumentBoxes: List<Box<*>>): Box<*>
     {
         val arguments = argumentBoxes.map(Box<*>::value).toTypedArray()
+
         val kCallable = this.value::class.members
             .firstOrNull { kCallable -> kCallable.name == name }
             ?: throw MemberInvocationException(

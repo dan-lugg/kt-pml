@@ -1,11 +1,13 @@
-package com.luggsoft.pml
+package com.luggsoft.pml.core.boxing
 
-import com.luggsoft.pml.core.boxing.BoxFunction
-import com.luggsoft.pml.core.boxing.toBox
-import kotlin.reflect.KFunction
+import kotlin.reflect.KCallable
 
-fun KFunction<*>.toBoxFunction(): BoxFunction = BoxFunction { argumentBoxes ->
+fun KCallable<*>.toBoxFunction(thisRef: Any? = null): BoxFunction = BoxFunction { argumentBoxes ->
     return@BoxFunction this@toBoxFunction
-        .call(args = argumentBoxes.toTypedArray())
+        .call(
+            arguments = (if (thisRef == null) emptyList() else listOf(thisRef))
+                .plus(argumentBoxes.map(Box<*>::value))
+        )
         .toBox()
 }
+

@@ -5,16 +5,15 @@ static def buildLibraries(Map<String, Object> libraryVersionMapping) {
             .each { library -> println("lib -> $library") }
 }
 
-
 ext.versions = [
         "betterParse"   : "0.4.2",
         "jackson"       : "2.12.3",
         "junitJupiter"  : "5.7.0",
         "kotlin"        : "1.5.21",
+        "ktCommon"      : "0.0.5",
         "logbackClassic": "1.2.3",
         "reflections"   : "0.9.11",
         "spring"        : "5.3.9",
-
 ]
 
 ext.libraries = buildLibraries([
@@ -30,6 +29,8 @@ ext.libraries = buildLibraries([
         "com.fasterxml.jackson.datatype:jackson-datatype-jsr310"        : versions.jackson,
         "com.fasterxml.jackson.module:jackson-module-kotlin"            : versions.jackson,
         "com.github.h0tk3y.betterParse:better-parse"                    : versions.betterParse,
+        "com.luggsoft.common:common"                                    : versions.ktCommon,
+        "com.luggsoft.common:common-commands"                           : versions.ktCommon,
         "org.jetbrains.kotlin:kotlin-allopen"                           : versions.kotlin,
         "org.jetbrains.kotlin:kotlin-gradle-plugin"                     : versions.kotlin,
         "org.jetbrains.kotlin:kotlin-reflect"                           : versions.kotlin,
@@ -44,3 +45,7 @@ ext.libraries = buildLibraries([
         "org.reflections:reflections"                                   : versions.reflections,
         "org.springframework:spring-context"                            : versions.spring,
 ])
+
+ext.githubRepositories = [
+        "https://maven.pkg.github.com/dan-lugg/kt-common",
+]

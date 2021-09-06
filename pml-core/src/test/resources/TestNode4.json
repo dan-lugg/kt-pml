@@ -1,53 +1,53 @@
 {
-    "_type": "com.luggsoft.pml.CTestNode",
+    "_type": ".CTestNode",
     "childTestNodes": [
         {
-            "_type": "com.luggsoft.pml.BTestNode",
+            "_type": ".BTestNode",
             "childTestNodes": [
                 {
-                    "_type": "com.luggsoft.pml.ATestNode",
+                    "_type": ".ATestNode",
                     "childTestNodes": [
                         {
-                            "_type": "com.luggsoft.pml.ATestNode",
+                            "_type": ".ATestNode",
                             "childTestNodes": []
                         },
                         {
-                            "_type": "com.luggsoft.pml.ATestNode",
+                            "_type": ".ATestNode",
                             "childTestNodes": []
                         },
                         {
-                            "_type": "com.luggsoft.pml.BTestNode",
+                            "_type": ".BTestNode",
                             "childTestNodes": []
                         },
                         {
-                            "_type": "com.luggsoft.pml.CTestNode",
+                            "_type": ".CTestNode",
                             "childTestNodes": []
                         },
                         {
-                            "_type": "com.luggsoft.pml.BTestNode",
+                            "_type": ".BTestNode",
                             "childTestNodes": [
                                 {
-                                    "_type": "com.luggsoft.pml.BTestNode",
+                                    "_type": ".BTestNode",
                                     "childTestNodes": [
                                         {
-                                            "_type": "com.luggsoft.pml.BTestNode",
+                                            "_type": ".BTestNode",
                                             "childTestNodes": [
                                                 {
-                                                    "_type": "com.luggsoft.pml.ATestNode",
+                                                    "_type": ".ATestNode",
                                                     "childTestNodes": []
                                                 }
                                             ]
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.CTestNode",
+                                            "_type": ".CTestNode",
                                             "childTestNodes": []
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.BTestNode",
+                                            "_type": ".BTestNode",
                                             "childTestNodes": []
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.ATestNode",
+                                            "_type": ".ATestNode",
                                             "childTestNodes": []
                                         }
                                     ]
@@ -57,81 +57,81 @@
                     ]
                 },
                 {
-                    "_type": "com.luggsoft.pml.BTestNode",
+                    "_type": ".BTestNode",
                     "childTestNodes": [
                         {
-                            "_type": "com.luggsoft.pml.ATestNode",
+                            "_type": ".ATestNode",
                             "childTestNodes": [
                                 {
-                                    "_type": "com.luggsoft.pml.BTestNode",
+                                    "_type": ".BTestNode",
                                     "childTestNodes": [
                                         {
-                                            "_type": "com.luggsoft.pml.BTestNode",
+                                            "_type": ".BTestNode",
                                             "childTestNodes": []
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.BTestNode",
+                                            "_type": ".BTestNode",
                                             "childTestNodes": []
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.ATestNode",
+                                            "_type": ".ATestNode",
                                             "childTestNodes": []
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.BTestNode",
+                                            "_type": ".BTestNode",
                                             "childTestNodes": []
                                         }
                                     ]
                                 },
                                 {
-                                    "_type": "com.luggsoft.pml.CTestNode",
+                                    "_type": ".CTestNode",
                                     "childTestNodes": []
                                 },
                                 {
-                                    "_type": "com.luggsoft.pml.ATestNode",
+                                    "_type": ".ATestNode",
                                     "childTestNodes": [
                                         {
-                                            "_type": "com.luggsoft.pml.BTestNode",
+                                            "_type": ".BTestNode",
                                             "childTestNodes": []
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.CTestNode",
+                                            "_type": ".CTestNode",
                                             "childTestNodes": []
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.CTestNode",
+                                            "_type": ".CTestNode",
                                             "childTestNodes": []
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.ATestNode",
+                                            "_type": ".ATestNode",
                                             "childTestNodes": [
                                                 {
-                                                    "_type": "com.luggsoft.pml.CTestNode",
+                                                    "_type": ".CTestNode",
                                                     "childTestNodes": []
                                                 },
                                                 {
-                                                    "_type": "com.luggsoft.pml.ATestNode",
+                                                    "_type": ".ATestNode",
                                                     "childTestNodes": []
                                                 }
                                             ]
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.CTestNode",
+                                            "_type": ".CTestNode",
                                             "childTestNodes": []
                                         }
                                     ]
                                 },
                                 {
-                                    "_type": "com.luggsoft.pml.BTestNode",
+                                    "_type": ".BTestNode",
                                     "childTestNodes": []
                                 }
                             ]
                         },
                         {
-                            "_type": "com.luggsoft.pml.CTestNode",
+                            "_type": ".CTestNode",
                             "childTestNodes": [
                                 {
-                                    "_type": "com.luggsoft.pml.BTestNode",
+                                    "_type": ".BTestNode",
                                     "childTestNodes": []
                                 }
                             ]
@@ -139,155 +139,155 @@
                     ]
                 },
                 {
-                    "_type": "com.luggsoft.pml.CTestNode",
+                    "_type": ".CTestNode",
                     "childTestNodes": [
                         {
-                            "_type": "com.luggsoft.pml.ATestNode",
+                            "_type": ".ATestNode",
                             "childTestNodes": []
                         },
                         {
-                            "_type": "com.luggsoft.pml.BTestNode",
+                            "_type": ".BTestNode",
                             "childTestNodes": [
                                 {
-                                    "_type": "com.luggsoft.pml.BTestNode",
+                                    "_type": ".BTestNode",
                                     "childTestNodes": []
                                 },
                                 {
-                                    "_type": "com.luggsoft.pml.BTestNode",
+                                    "_type": ".BTestNode",
                                     "childTestNodes": []
                                 },
                                 {
-                                    "_type": "com.luggsoft.pml.CTestNode",
+                                    "_type": ".CTestNode",
                                     "childTestNodes": [
                                         {
-                                            "_type": "com.luggsoft.pml.BTestNode",
+                                            "_type": ".BTestNode",
                                             "childTestNodes": []
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.ATestNode",
+                                            "_type": ".ATestNode",
                                             "childTestNodes": [
                                                 {
-                                                    "_type": "com.luggsoft.pml.CTestNode",
+                                                    "_type": ".CTestNode",
                                                     "childTestNodes": []
                                                 }
                                             ]
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.BTestNode",
+                                            "_type": ".BTestNode",
                                             "childTestNodes": []
                                         }
                                     ]
                                 },
                                 {
-                                    "_type": "com.luggsoft.pml.CTestNode",
+                                    "_type": ".CTestNode",
                                     "childTestNodes": []
                                 },
                                 {
-                                    "_type": "com.luggsoft.pml.ATestNode",
+                                    "_type": ".ATestNode",
                                     "childTestNodes": []
                                 }
                             ]
                         },
                         {
-                            "_type": "com.luggsoft.pml.ATestNode",
+                            "_type": ".ATestNode",
                             "childTestNodes": []
                         },
                         {
-                            "_type": "com.luggsoft.pml.CTestNode",
+                            "_type": ".CTestNode",
                             "childTestNodes": [
                                 {
-                                    "_type": "com.luggsoft.pml.ATestNode",
+                                    "_type": ".ATestNode",
                                     "childTestNodes": []
                                 },
                                 {
-                                    "_type": "com.luggsoft.pml.ATestNode",
+                                    "_type": ".ATestNode",
                                     "childTestNodes": [
                                         {
-                                            "_type": "com.luggsoft.pml.CTestNode",
+                                            "_type": ".CTestNode",
                                             "childTestNodes": []
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.CTestNode",
+                                            "_type": ".CTestNode",
                                             "childTestNodes": [
                                                 {
-                                                    "_type": "com.luggsoft.pml.CTestNode",
+                                                    "_type": ".CTestNode",
                                                     "childTestNodes": []
                                                 },
                                                 {
-                                                    "_type": "com.luggsoft.pml.CTestNode",
+                                                    "_type": ".CTestNode",
                                                     "childTestNodes": [
                                                         {
-                                                            "_type": "com.luggsoft.pml.CTestNode",
+                                                            "_type": ".CTestNode",
                                                             "childTestNodes": [
                                                                 {
-                                                                    "_type": "com.luggsoft.pml.CTestNode",
+                                                                    "_type": ".CTestNode",
                                                                     "childTestNodes": [
                                                                         {
-                                                                            "_type": "com.luggsoft.pml.BTestNode",
+                                                                            "_type": ".BTestNode",
                                                                             "childTestNodes": []
                                                                         },
                                                                         {
-                                                                            "_type": "com.luggsoft.pml.CTestNode",
+                                                                            "_type": ".CTestNode",
                                                                             "childTestNodes": []
                                                                         },
                                                                         {
-                                                                            "_type": "com.luggsoft.pml.CTestNode",
+                                                                            "_type": ".CTestNode",
                                                                             "childTestNodes": []
                                                                         },
                                                                         {
-                                                                            "_type": "com.luggsoft.pml.CTestNode",
+                                                                            "_type": ".CTestNode",
                                                                             "childTestNodes": []
                                                                         }
                                                                     ]
                                                                 },
                                                                 {
-                                                                    "_type": "com.luggsoft.pml.ATestNode",
+                                                                    "_type": ".ATestNode",
                                                                     "childTestNodes": []
                                                                 },
                                                                 {
-                                                                    "_type": "com.luggsoft.pml.CTestNode",
+                                                                    "_type": ".CTestNode",
                                                                     "childTestNodes": [
                                                                         {
-                                                                            "_type": "com.luggsoft.pml.BTestNode",
+                                                                            "_type": ".BTestNode",
                                                                             "childTestNodes": []
                                                                         },
                                                                         {
-                                                                            "_type": "com.luggsoft.pml.BTestNode",
+                                                                            "_type": ".BTestNode",
                                                                             "childTestNodes": []
                                                                         },
                                                                         {
-                                                                            "_type": "com.luggsoft.pml.CTestNode",
+                                                                            "_type": ".CTestNode",
                                                                             "childTestNodes": []
                                                                         },
                                                                         {
-                                                                            "_type": "com.luggsoft.pml.BTestNode",
+                                                                            "_type": ".BTestNode",
                                                                             "childTestNodes": [
                                                                                 {
-                                                                                    "_type": "com.luggsoft.pml.BTestNode",
+                                                                                    "_type": ".BTestNode",
                                                                                     "childTestNodes": []
                                                                                 }
                                                                             ]
                                                                         },
                                                                         {
-                                                                            "_type": "com.luggsoft.pml.ATestNode",
+                                                                            "_type": ".ATestNode",
                                                                             "childTestNodes": [
                                                                                 {
-                                                                                    "_type": "com.luggsoft.pml.ATestNode",
+                                                                                    "_type": ".ATestNode",
                                                                                     "childTestNodes": []
                                                                                 },
                                                                                 {
-                                                                                    "_type": "com.luggsoft.pml.BTestNode",
+                                                                                    "_type": ".BTestNode",
                                                                                     "childTestNodes": []
                                                                                 },
                                                                                 {
-                                                                                    "_type": "com.luggsoft.pml.CTestNode",
+                                                                                    "_type": ".CTestNode",
                                                                                     "childTestNodes": []
                                                                                 },
                                                                                 {
-                                                                                    "_type": "com.luggsoft.pml.ATestNode",
+                                                                                    "_type": ".ATestNode",
                                                                                     "childTestNodes": [
                                                                                         {
-                                                                                            "_type": "com.luggsoft.pml.CTestNode",
+                                                                                            "_type": ".CTestNode",
                                                                                             "childTestNodes": []
                                                                                         }
                                                                                     ]
@@ -299,26 +299,26 @@
                                                             ]
                                                         },
                                                         {
-                                                            "_type": "com.luggsoft.pml.ATestNode",
+                                                            "_type": ".ATestNode",
                                                             "childTestNodes": []
                                                         },
                                                         {
-                                                            "_type": "com.luggsoft.pml.ATestNode",
+                                                            "_type": ".ATestNode",
                                                             "childTestNodes": [
                                                                 {
-                                                                    "_type": "com.luggsoft.pml.CTestNode",
+                                                                    "_type": ".CTestNode",
                                                                     "childTestNodes": []
                                                                 },
                                                                 {
-                                                                    "_type": "com.luggsoft.pml.BTestNode",
+                                                                    "_type": ".BTestNode",
                                                                     "childTestNodes": []
                                                                 },
                                                                 {
-                                                                    "_type": "com.luggsoft.pml.BTestNode",
+                                                                    "_type": ".BTestNode",
                                                                     "childTestNodes": []
                                                                 },
                                                                 {
-                                                                    "_type": "com.luggsoft.pml.BTestNode",
+                                                                    "_type": ".BTestNode",
                                                                     "childTestNodes": []
                                                                 }
                                                             ]
@@ -326,22 +326,22 @@
                                                     ]
                                                 },
                                                 {
-                                                    "_type": "com.luggsoft.pml.ATestNode",
+                                                    "_type": ".ATestNode",
                                                     "childTestNodes": []
                                                 },
                                                 {
-                                                    "_type": "com.luggsoft.pml.CTestNode",
+                                                    "_type": ".CTestNode",
                                                     "childTestNodes": []
                                                 },
                                                 {
-                                                    "_type": "com.luggsoft.pml.ATestNode",
+                                                    "_type": ".ATestNode",
                                                     "childTestNodes": [
                                                         {
-                                                            "_type": "com.luggsoft.pml.BTestNode",
+                                                            "_type": ".BTestNode",
                                                             "childTestNodes": []
                                                         },
                                                         {
-                                                            "_type": "com.luggsoft.pml.ATestNode",
+                                                            "_type": ".ATestNode",
                                                             "childTestNodes": []
                                                         }
                                                     ]
@@ -349,115 +349,115 @@
                                             ]
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.CTestNode",
+                                            "_type": ".CTestNode",
                                             "childTestNodes": []
                                         }
                                     ]
                                 },
                                 {
-                                    "_type": "com.luggsoft.pml.BTestNode",
+                                    "_type": ".BTestNode",
                                     "childTestNodes": []
                                 },
                                 {
-                                    "_type": "com.luggsoft.pml.CTestNode",
+                                    "_type": ".CTestNode",
                                     "childTestNodes": []
                                 },
                                 {
-                                    "_type": "com.luggsoft.pml.BTestNode",
+                                    "_type": ".BTestNode",
                                     "childTestNodes": []
                                 }
                             ]
                         },
                         {
-                            "_type": "com.luggsoft.pml.ATestNode",
+                            "_type": ".ATestNode",
                             "childTestNodes": []
                         }
                     ]
                 },
                 {
-                    "_type": "com.luggsoft.pml.BTestNode",
+                    "_type": ".BTestNode",
                     "childTestNodes": [
                         {
-                            "_type": "com.luggsoft.pml.BTestNode",
+                            "_type": ".BTestNode",
                             "childTestNodes": []
                         },
                         {
-                            "_type": "com.luggsoft.pml.BTestNode",
+                            "_type": ".BTestNode",
                             "childTestNodes": []
                         },
                         {
-                            "_type": "com.luggsoft.pml.CTestNode",
+                            "_type": ".CTestNode",
                             "childTestNodes": [
                                 {
-                                    "_type": "com.luggsoft.pml.ATestNode",
+                                    "_type": ".ATestNode",
                                     "childTestNodes": []
                                 },
                                 {
-                                    "_type": "com.luggsoft.pml.ATestNode",
+                                    "_type": ".ATestNode",
                                     "childTestNodes": [
                                         {
-                                            "_type": "com.luggsoft.pml.ATestNode",
+                                            "_type": ".ATestNode",
                                             "childTestNodes": [
                                                 {
-                                                    "_type": "com.luggsoft.pml.ATestNode",
+                                                    "_type": ".ATestNode",
                                                     "childTestNodes": []
                                                 },
                                                 {
-                                                    "_type": "com.luggsoft.pml.BTestNode",
+                                                    "_type": ".BTestNode",
                                                     "childTestNodes": []
                                                 },
                                                 {
-                                                    "_type": "com.luggsoft.pml.CTestNode",
+                                                    "_type": ".CTestNode",
                                                     "childTestNodes": []
                                                 }
                                             ]
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.ATestNode",
+                                            "_type": ".ATestNode",
                                             "childTestNodes": []
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.CTestNode",
+                                            "_type": ".CTestNode",
                                             "childTestNodes": []
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.CTestNode",
+                                            "_type": ".CTestNode",
                                             "childTestNodes": [
                                                 {
-                                                    "_type": "com.luggsoft.pml.CTestNode",
+                                                    "_type": ".CTestNode",
                                                     "childTestNodes": []
                                                 },
                                                 {
-                                                    "_type": "com.luggsoft.pml.BTestNode",
+                                                    "_type": ".BTestNode",
                                                     "childTestNodes": [
                                                         {
-                                                            "_type": "com.luggsoft.pml.BTestNode",
+                                                            "_type": ".BTestNode",
                                                             "childTestNodes": []
                                                         },
                                                         {
-                                                            "_type": "com.luggsoft.pml.CTestNode",
+                                                            "_type": ".CTestNode",
                                                             "childTestNodes": [
                                                                 {
-                                                                    "_type": "com.luggsoft.pml.ATestNode",
+                                                                    "_type": ".ATestNode",
                                                                     "childTestNodes": []
                                                                 },
                                                                 {
-                                                                    "_type": "com.luggsoft.pml.ATestNode",
+                                                                    "_type": ".ATestNode",
                                                                     "childTestNodes": []
                                                                 },
                                                                 {
-                                                                    "_type": "com.luggsoft.pml.ATestNode",
+                                                                    "_type": ".ATestNode",
                                                                     "childTestNodes": [
                                                                         {
-                                                                            "_type": "com.luggsoft.pml.BTestNode",
+                                                                            "_type": ".BTestNode",
                                                                             "childTestNodes": []
                                                                         },
                                                                         {
-                                                                            "_type": "com.luggsoft.pml.CTestNode",
+                                                                            "_type": ".CTestNode",
                                                                             "childTestNodes": []
                                                                         },
                                                                         {
-                                                                            "_type": "com.luggsoft.pml.ATestNode",
+                                                                            "_type": ".ATestNode",
                                                                             "childTestNodes": []
                                                                         }
                                                                     ]
@@ -465,49 +465,49 @@
                                                             ]
                                                         },
                                                         {
-                                                            "_type": "com.luggsoft.pml.CTestNode",
+                                                            "_type": ".CTestNode",
                                                             "childTestNodes": []
                                                         },
                                                         {
-                                                            "_type": "com.luggsoft.pml.BTestNode",
+                                                            "_type": ".BTestNode",
                                                             "childTestNodes": []
                                                         }
                                                     ]
                                                 },
                                                 {
-                                                    "_type": "com.luggsoft.pml.ATestNode",
+                                                    "_type": ".ATestNode",
                                                     "childTestNodes": [
                                                         {
-                                                            "_type": "com.luggsoft.pml.CTestNode",
+                                                            "_type": ".CTestNode",
                                                             "childTestNodes": []
                                                         },
                                                         {
-                                                            "_type": "com.luggsoft.pml.CTestNode",
+                                                            "_type": ".CTestNode",
                                                             "childTestNodes": []
                                                         },
                                                         {
-                                                            "_type": "com.luggsoft.pml.ATestNode",
+                                                            "_type": ".ATestNode",
                                                             "childTestNodes": []
                                                         }
                                                     ]
                                                 },
                                                 {
-                                                    "_type": "com.luggsoft.pml.ATestNode",
+                                                    "_type": ".ATestNode",
                                                     "childTestNodes": [
                                                         {
-                                                            "_type": "com.luggsoft.pml.CTestNode",
+                                                            "_type": ".CTestNode",
                                                             "childTestNodes": []
                                                         },
                                                         {
-                                                            "_type": "com.luggsoft.pml.BTestNode",
+                                                            "_type": ".BTestNode",
                                                             "childTestNodes": []
                                                         },
                                                         {
-                                                            "_type": "com.luggsoft.pml.CTestNode",
+                                                            "_type": ".CTestNode",
                                                             "childTestNodes": []
                                                         },
                                                         {
-                                                            "_type": "com.luggsoft.pml.CTestNode",
+                                                            "_type": ".CTestNode",
                                                             "childTestNodes": []
                                                         }
                                                     ]
@@ -515,57 +515,57 @@
                                             ]
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.CTestNode",
+                                            "_type": ".CTestNode",
                                             "childTestNodes": []
                                         }
                                     ]
                                 },
                                 {
-                                    "_type": "com.luggsoft.pml.CTestNode",
+                                    "_type": ".CTestNode",
                                     "childTestNodes": [
                                         {
-                                            "_type": "com.luggsoft.pml.BTestNode",
+                                            "_type": ".BTestNode",
                                             "childTestNodes": [
                                                 {
-                                                    "_type": "com.luggsoft.pml.CTestNode",
+                                                    "_type": ".CTestNode",
                                                     "childTestNodes": []
                                                 },
                                                 {
-                                                    "_type": "com.luggsoft.pml.CTestNode",
+                                                    "_type": ".CTestNode",
                                                     "childTestNodes": []
                                                 },
                                                 {
-                                                    "_type": "com.luggsoft.pml.CTestNode",
+                                                    "_type": ".CTestNode",
                                                     "childTestNodes": [
                                                         {
-                                                            "_type": "com.luggsoft.pml.ATestNode",
+                                                            "_type": ".ATestNode",
                                                             "childTestNodes": []
                                                         },
                                                         {
-                                                            "_type": "com.luggsoft.pml.CTestNode",
+                                                            "_type": ".CTestNode",
                                                             "childTestNodes": []
                                                         },
                                                         {
-                                                            "_type": "com.luggsoft.pml.CTestNode",
+                                                            "_type": ".CTestNode",
                                                             "childTestNodes": []
                                                         },
                                                         {
-                                                            "_type": "com.luggsoft.pml.CTestNode",
+                                                            "_type": ".CTestNode",
                                                             "childTestNodes": [
                                                                 {
-                                                                    "_type": "com.luggsoft.pml.ATestNode",
+                                                                    "_type": ".ATestNode",
                                                                     "childTestNodes": []
                                                                 },
                                                                 {
-                                                                    "_type": "com.luggsoft.pml.ATestNode",
+                                                                    "_type": ".ATestNode",
                                                                     "childTestNodes": []
                                                                 },
                                                                 {
-                                                                    "_type": "com.luggsoft.pml.ATestNode",
+                                                                    "_type": ".ATestNode",
                                                                     "childTestNodes": []
                                                                 },
                                                                 {
-                                                                    "_type": "com.luggsoft.pml.ATestNode",
+                                                                    "_type": ".ATestNode",
                                                                     "childTestNodes": []
                                                                 }
                                                             ]
@@ -575,59 +575,59 @@
                                             ]
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.BTestNode",
+                                            "_type": ".BTestNode",
                                             "childTestNodes": [
                                                 {
-                                                    "_type": "com.luggsoft.pml.BTestNode",
+                                                    "_type": ".BTestNode",
                                                     "childTestNodes": []
                                                 },
                                                 {
-                                                    "_type": "com.luggsoft.pml.BTestNode",
+                                                    "_type": ".BTestNode",
                                                     "childTestNodes": [
                                                         {
-                                                            "_type": "com.luggsoft.pml.ATestNode",
+                                                            "_type": ".ATestNode",
                                                             "childTestNodes": []
                                                         },
                                                         {
-                                                            "_type": "com.luggsoft.pml.ATestNode",
+                                                            "_type": ".ATestNode",
                                                             "childTestNodes": []
                                                         }
                                                     ]
                                                 },
                                                 {
-                                                    "_type": "com.luggsoft.pml.ATestNode",
+                                                    "_type": ".ATestNode",
                                                     "childTestNodes": [
                                                         {
-                                                            "_type": "com.luggsoft.pml.ATestNode",
+                                                            "_type": ".ATestNode",
                                                             "childTestNodes": []
                                                         },
                                                         {
-                                                            "_type": "com.luggsoft.pml.ATestNode",
+                                                            "_type": ".ATestNode",
                                                             "childTestNodes": []
                                                         }
                                                     ]
                                                 },
                                                 {
-                                                    "_type": "com.luggsoft.pml.ATestNode",
+                                                    "_type": ".ATestNode",
                                                     "childTestNodes": []
                                                 }
                                             ]
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.BTestNode",
+                                            "_type": ".BTestNode",
                                             "childTestNodes": [
                                                 {
-                                                    "_type": "com.luggsoft.pml.ATestNode",
+                                                    "_type": ".ATestNode",
                                                     "childTestNodes": []
                                                 },
                                                 {
-                                                    "_type": "com.luggsoft.pml.CTestNode",
+                                                    "_type": ".CTestNode",
                                                     "childTestNodes": []
                                                 }
                                             ]
                                         },
                                         {
-                                            "_type": "com.luggsoft.pml.CTestNode",
+                                            "_type": ".CTestNode",
                                             "childTestNodes": []
                                         }
                                     ]
@@ -635,7 +635,7 @@
                             ]
                         },
                         {
-                            "_type": "com.luggsoft.pml.CTestNode",
+                            "_type": ".CTestNode",
                             "childTestNodes": []
                         }
                     ]

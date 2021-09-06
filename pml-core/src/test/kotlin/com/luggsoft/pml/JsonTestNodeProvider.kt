@@ -21,3 +21,4 @@ class JsonTestNodeProvider(
 
     override fun getTestNode(): TestNode = this.objectMapper.readValue(this.reader)
 }
+
